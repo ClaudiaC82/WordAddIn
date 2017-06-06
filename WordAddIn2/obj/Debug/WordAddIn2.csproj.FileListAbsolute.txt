@@ -3,7 +3,6 @@ d:\aspnet\OutlookAddin2\WordAddIn2\WordAddIn2\bin\Debug\WordAddIn2.pdb
 d:\aspnet\OutlookAddin2\WordAddIn2\WordAddIn2\bin\Debug\WordAddIn2.dll.manifest
 d:\aspnet\OutlookAddin2\WordAddIn2\WordAddIn2\bin\Debug\WordAddIn2.vsto
 d:\aspnet\OutlookAddin2\WordAddIn2\WordAddIn2\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
-d:\aspnet\OutlookAddin2\WordAddIn2\WordAddIn2\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
 d:\aspnet\OutlookAddin2\WordAddIn2\WordAddIn2\obj\Debug\WordAddIn2.csprojResolveAssemblyReference.cache
 d:\aspnet\OutlookAddin2\WordAddIn2\WordAddIn2\obj\Debug\WordAddIn2.Properties.Resources.resources
 d:\aspnet\OutlookAddin2\WordAddIn2\WordAddIn2\obj\Debug\WordAddIn2.csproj.GenerateResource.Cache
@@ -11,3 +10,8 @@ d:\aspnet\OutlookAddin2\WordAddIn2\WordAddIn2\obj\Debug\WordAddIn2.dll
 d:\aspnet\OutlookAddin2\WordAddIn2\WordAddIn2\obj\Debug\WordAddIn2.pdb
 d:\aspnet\OutlookAddin2\WordAddIn2\WordAddIn2\obj\Debug\WordAddIn2.Ribbon.resources
 d:\aspnet\OutlookAddin2\WordAddIn2\WordAddIn2\obj\Debug\WordAddIn2.ConfigurazioneMessaggio.resources
+D:\aspnet\OutlookAddin2\WordAddIn2\WordAddIn2\bin\Debug\Microsoft.Office.Tools.Common.dll
+D:\aspnet\OutlookAddin2\WordAddIn2\WordAddIn2\bin\Debug\Microsoft.Office.Tools.dll
+D:\aspnet\OutlookAddin2\WordAddIn2\WordAddIn2\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+D:\aspnet\OutlookAddin2\WordAddIn2\WordAddIn2\bin\Debug\Microsoft.Office.Tools.Word.dll
+D:\aspnet\OutlookAddin2\WordAddIn2\WordAddIn2\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
