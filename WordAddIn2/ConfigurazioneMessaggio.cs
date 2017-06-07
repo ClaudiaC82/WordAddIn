@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using MailerUtilities;
 
 namespace WordAddIn2
 {
@@ -21,6 +22,12 @@ namespace WordAddIn2
         {
             Microsoft.Office.Interop.Word.Document documento = Globals.ThisAddIn.Application.ActiveDocument;
             messaggio = documento.Content.Text;
+        }
+
+        private void Button1_Click(object sender, EventArgs e)
+        {
+            XLSX excel = new XLSX();
+            excel.elaboraExcel("D:\\provaExcel.xlsx");
         }
     }
 }

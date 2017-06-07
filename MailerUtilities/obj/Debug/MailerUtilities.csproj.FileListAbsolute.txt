@@ -1,0 +1,8 @@
+C:\Users\Main\Source\Repos\WordAddIn\MailerUtilities\bin\Debug\MailerUtilities.dll
+C:\Users\Main\Source\Repos\WordAddIn\MailerUtilities\bin\Debug\MailerUtilities.pdb
+C:\Users\Main\Source\Repos\WordAddIn\MailerUtilities\obj\Debug\MailerUtilities.csprojResolveAssemblyReference.cache
+C:\Users\Main\Source\Repos\WordAddIn\MailerUtilities\obj\Debug\MailerUtilities.csproj.ResolveComReference.cache
+C:\Users\Main\Source\Repos\WordAddIn\MailerUtilities\obj\Debug\MailerUtilities.dll
+C:\Users\Main\Source\Repos\WordAddIn\MailerUtilities\obj\Debug\MailerUtilities.pdb
+C:\Users\Main\Source\Repos\WordAddIn\MailerUtilities\bin\Debug\System.Net.Http.dll
+C:\Users\Main\Source\Repos\WordAddIn\MailerUtilities\bin\Debug\System.Net.Http.xml

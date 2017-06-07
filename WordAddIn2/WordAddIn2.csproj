@@ -207,6 +207,12 @@
     <AppDesigner Include="Properties\" />
     <None Include="WordAddIn2_TemporaryKey.pfx" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MailerUtilities\MailerUtilities.csproj">
+      <Project>{ce21b25d-03db-4aaa-bf4b-863bd5a952de}</Project>
+      <Name>MailerUtilities</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
