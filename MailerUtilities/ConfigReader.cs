@@ -7,7 +7,7 @@ using System.Xml.Serialization;
 
 namespace MailerUtilities
 {
-    class ConfigReader
+    public class ConfigReader
     {
         [Serializable]
         public class Configuration : PersistableObject

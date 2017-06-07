@@ -16,17 +16,17 @@ namespace MailerUtilities
             con = new SqlConnection(constr);
             con.Open();
         }
-        public static void SendExcepToDB(Exception exdb, string connection_string)
-        {
-            connection(connection_string);
-            SqlCommand com = new SqlCommand("sp_Log", con);
-            com.CommandType = CommandType.StoredProcedure;
-            com.Parameters.AddWithValue("@LogMsg", exdb.Message.ToString());
-            com.Parameters.AddWithValue("@LogType", 1);
-            com.ExecuteNonQuery();
-            con.Close();
-        }
-        public static void SendLogToDB(int type, string message, string connection_string) /*type=1 : ERROR; type=2 : DEBUG*/
+        //public void SendExcepToDB(Exception exdb, string connection_string)
+        //{
+        //    connection(connection_string);
+        //    SqlCommand com = new SqlCommand("sp_Log", con);
+        //    com.CommandType = CommandType.StoredProcedure;
+        //    com.Parameters.AddWithValue("@LogMsg", exdb.Message.ToString());
+        //    com.Parameters.AddWithValue("@LogType", 1);
+        //    com.ExecuteNonQuery();
+        //    con.Close();
+        //}
+        public void SendLogToDB(int type, string message, string connection_string) /*type=1 : ERROR; type=2 : DEBUG*/
         {
             connection(connection_string);
             SqlCommand com = new SqlCommand("sp_Log", con);
