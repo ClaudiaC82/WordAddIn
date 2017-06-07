@@ -13,7 +13,7 @@ namespace MailerUtilities
         public class Configuration : PersistableObject
         {
             public string connection_string { get; set; }
-            public string test1 { get; set; }
+            public string excel_path { get; set; }
             public string test2 { get; set; }
             public string test3 { get; set; }
         }

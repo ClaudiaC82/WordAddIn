@@ -2,7 +2,7 @@
 <Base>
   <Global>
     <connection_string>Server=localhost\SQLEXPRESS;Database=master;Trusted_Connection=True;</connection_string>
-    <excel_path>t_1</excel_path>
+    <excel_path>D:\\provaExcel.xlsx</excel_path>
     <test2>t_2</test2>
     <test3>t_3</test3>
   </Global>
