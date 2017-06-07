@@ -12,3 +12,9 @@ C:\Users\claud\Desktop\wordaddin\wordaddin\WordAddIn_new\WordAddIn_new\WordAddIn
 C:\Users\claud\Desktop\wordaddin\wordaddin\WordAddIn_new\WordAddIn_new\WordAddIn\MailerUtilities\obj\Debug\MailerUtilities.csproj.ResolveComReference.cache
 C:\Users\claud\Desktop\wordaddin\wordaddin\WordAddIn_new\WordAddIn_new\WordAddIn\MailerUtilities\obj\Debug\MailerUtilities.dll
 C:\Users\claud\Desktop\wordaddin\wordaddin\WordAddIn_new\WordAddIn_new\WordAddIn\MailerUtilities\obj\Debug\MailerUtilities.pdb
+C:\Users\claud\Desktop\wordaddin\wordaddin\WordAddIn_new2\WordAddIn\MailerUtilities\bin\Debug\MailerUtilities.dll
+C:\Users\claud\Desktop\wordaddin\wordaddin\WordAddIn_new2\WordAddIn\MailerUtilities\bin\Debug\MailerUtilities.pdb
+C:\Users\claud\Desktop\wordaddin\wordaddin\WordAddIn_new2\WordAddIn\MailerUtilities\obj\Debug\MailerUtilities.csprojResolveAssemblyReference.cache
+C:\Users\claud\Desktop\wordaddin\wordaddin\WordAddIn_new2\WordAddIn\MailerUtilities\obj\Debug\MailerUtilities.csproj.ResolveComReference.cache
+C:\Users\claud\Desktop\wordaddin\wordaddin\WordAddIn_new2\WordAddIn\MailerUtilities\obj\Debug\MailerUtilities.dll
+C:\Users\claud\Desktop\wordaddin\wordaddin\WordAddIn_new2\WordAddIn\MailerUtilities\obj\Debug\MailerUtilities.pdb
