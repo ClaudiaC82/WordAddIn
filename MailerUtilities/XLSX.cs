@@ -8,7 +8,7 @@ using Microsoft.Office.Interop.Excel;
 namespace MailerUtilities
 {
     public class messaggio {
-        public List<string> Destinatario { get; set; }
+        public List<string> Destinatario { get; set; } 
         public List<string> Copia { get; set; }
         public List<string> CopiaNascosta { get; set; }
         public List<string> Allegati { get; set; }
