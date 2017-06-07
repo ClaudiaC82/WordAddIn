@@ -24,6 +24,7 @@ namespace MailerUtilities
             com.Parameters.AddWithValue("@LogMsg", exdb.Message.ToString());
             com.Parameters.AddWithValue("@LogType", 1);
             com.ExecuteNonQuery();
+            con.Close();
         }
         public static void SendLogToDB(int type, string message, string connection_string) /*type=1 : ERROR; type=2 : DEBUG*/
         {
@@ -33,6 +34,7 @@ namespace MailerUtilities
             com.Parameters.AddWithValue("@LogMsg", message);
             com.Parameters.AddWithValue("@LogType", type);
             com.ExecuteNonQuery();
+            con.Close();
         }
     }
 }
