@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Base>
+  <Global>
+    <connection_string>Server=localhost\SQLEXPRESS;Database=master;Trusted_Connection=True;</connection_string>
+    <test1>t_1</test1>
+    <test2>t_2</test2>
+    <test3>t_3</test3>
+  </Global>
+</Base>
