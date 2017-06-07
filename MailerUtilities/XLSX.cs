@@ -12,7 +12,7 @@ namespace MailerUtilities
         public List<string> Copia { get; set; }
         public List<string> CopiaNascosta { get; set; }
         public List<string> Allegati { get; set; }
-        public string Oggetto { get; set; }
+        public string Oggetto { get; set; } 
         public string Messaggio { get; set; }
 
     }
