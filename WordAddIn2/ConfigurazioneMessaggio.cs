@@ -36,9 +36,16 @@ namespace WordAddIn2
 
         private void button2_Click(object sender, EventArgs e)
         {
-            //Microsoft.Office.Interop.Outlook.
             Outlook.Application olkApp1 = new Outlook.Application();
             Outlook.MailItem olkMail1 =  (MailItem)olkApp1.CreateItem(OlItemType.olMailItem);
+            Accounts accounts = olkApp1.Application.Session.Accounts;
+            foreach (Account a in accounts) {
+                if (a.SmtpAddress == "claudia_cassioli@libero.it")
+                {
+                    olkMail1.SendUsingAccount = a;
+                }
+            }
+            
             olkMail1.To = "claudia_cassioli@libero.it";
             olkMail1.CC = "";
             olkMail1.Subject = "test subject";
