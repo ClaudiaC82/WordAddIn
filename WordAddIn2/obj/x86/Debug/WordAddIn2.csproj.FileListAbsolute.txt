@@ -1,0 +1,16 @@
+C:\Users\claud\Desktop\wordaddin\wordaddin\WordAddIn_new2\WordAddIn\WordAddIn2\bin\x86\Debug\WordAddIn2.dll
+C:\Users\claud\Desktop\wordaddin\wordaddin\WordAddIn_new2\WordAddIn\WordAddIn2\bin\x86\Debug\WordAddIn2.pdb
+C:\Users\claud\Desktop\wordaddin\wordaddin\WordAddIn_new2\WordAddIn\WordAddIn2\bin\x86\Debug\WordAddIn2.dll.manifest
+C:\Users\claud\Desktop\wordaddin\wordaddin\WordAddIn_new2\WordAddIn\WordAddIn2\bin\x86\Debug\WordAddIn2.vsto
+C:\Users\claud\Desktop\wordaddin\wordaddin\WordAddIn_new2\WordAddIn\WordAddIn2\bin\x86\Debug\MailerUtilities.dll
+C:\Users\claud\Desktop\wordaddin\wordaddin\WordAddIn_new2\WordAddIn\WordAddIn2\bin\x86\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\claud\Desktop\wordaddin\wordaddin\WordAddIn_new2\WordAddIn\WordAddIn2\bin\x86\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\claud\Desktop\wordaddin\wordaddin\WordAddIn_new2\WordAddIn\WordAddIn2\bin\x86\Debug\Microsoft.Office.Tools.Word.dll
+C:\Users\claud\Desktop\wordaddin\wordaddin\WordAddIn_new2\WordAddIn\WordAddIn2\bin\x86\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\claud\Desktop\wordaddin\wordaddin\WordAddIn_new2\WordAddIn\WordAddIn2\bin\x86\Debug\MailerUtilities.pdb
+C:\Users\claud\Desktop\wordaddin\wordaddin\WordAddIn_new2\WordAddIn\WordAddIn2\obj\x86\Debug\WordAddIn2.ConfigurazioneMessaggio.resources
+C:\Users\claud\Desktop\wordaddin\wordaddin\WordAddIn_new2\WordAddIn\WordAddIn2\obj\x86\Debug\WordAddIn2.Properties.Resources.resources
+C:\Users\claud\Desktop\wordaddin\wordaddin\WordAddIn_new2\WordAddIn\WordAddIn2\obj\x86\Debug\WordAddIn2.Ribbon.resources
+C:\Users\claud\Desktop\wordaddin\wordaddin\WordAddIn_new2\WordAddIn\WordAddIn2\obj\x86\Debug\WordAddIn2.csproj.GenerateResource.Cache
+C:\Users\claud\Desktop\wordaddin\wordaddin\WordAddIn_new2\WordAddIn\WordAddIn2\obj\x86\Debug\WordAddIn2.dll
+C:\Users\claud\Desktop\wordaddin\wordaddin\WordAddIn_new2\WordAddIn\WordAddIn2\obj\x86\Debug\WordAddIn2.pdb
