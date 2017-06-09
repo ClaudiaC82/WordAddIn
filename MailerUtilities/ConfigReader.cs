@@ -10,6 +10,7 @@ namespace MailerUtilities
     public class ConfigReader
     {
         [Serializable]
+        [XmlRoot("Base"), XmlType("Base")]
         public class Configuration : PersistableObject
         {
             public string connection_string { get; set; }

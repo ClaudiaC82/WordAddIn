@@ -27,9 +27,9 @@ namespace WordAddIn2
         private void Button1_Click(object sender, EventArgs e)
         {
             XLSX excel = new XLSX();
-
-            //string filePath = ConfigReader.PersistableObject.Load<ConfigReader.Configuration>("").excel_path;
-            excel.elaboraExcel("D:\\provaExcel.xlsx");
+            string base_directory = AppDomain.CurrentDomain.BaseDirectory;
+            string filePath = ConfigReader.PersistableObject.Load<ConfigReader.Configuration>(String.Format("{0}\\config.xml", base_directory)).excel_path;
+            excel.elaboraExcel(filePath);//"D:\\provaExcel.xlsx"
         }
     }
 }
